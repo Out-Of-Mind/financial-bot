@@ -2,7 +2,6 @@
 it's telegram bot with financial interaction
  How to use?
  in file config.ini change token = to your telegram bot token it looks like 1234567890:AhgjHsk_ssD_psismjs98ks7ss
- Than in your browser api.telegram.org/bot<your_legram_bot_token>/setwebhook?url=https://someurl.com/ without<>
  users_count = * if you allow access to all telegram users if not users_count = 2 or that number which users you wnat to add
  After this if users_count = 2 add user0 = <user_telegram_id> without <> it looks like 506421571 and user1 = 506421534
  than add an admin like users, admin is required 
